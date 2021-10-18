@@ -1,0 +1,412 @@
+#EXTINF:-1 tvg-id="LA1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/la1.png" group-title="Nacionales" tvg-name="LA1.TV",LA 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF:-1 tvg-id="LA2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/la2.png" group-title="Nacionales" tvg-name="LA2.TV",LA 2
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/antena3.png" group-title="Nacionales" tvg-name="Antena3.TV",Antena 3
+https://freevip.xyz/live/antena_3/index.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/cuatro.png" group-title="Nacionales" tvg-name="Cuatro.TV",Cuatro
+https://freevip.xyz/sport/cuatro/index.m3u8
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/telecinco.png" group-title="Nacionales" tvg-name="Telecinco.TV",Telecinco
+https://freevip.xyz/sport/telecinco/index.m3u8
+#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/seis.png" group-title="Nacionales" tvg-name="LaSexta.TV",La Sexta
+https://freevip.xyz/sport/la_sexta/index.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/24h.png" group-title="Nacionales" tvg-name="24Horas.TV",24 Horas
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/neox.png" group-title="Nacionales" tvg-name="Neox.TV",Neox
+https://freevip.xyz/live/neox/index.m3u8
+#EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/nova.png" group-title="Nacionales" tvg-name="Nova.TV",Nova
+https://freevip.xyz/live/nova/index.m3u8
+#EXTINF:-1 tvg-id="FactoríadeFicción.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/fdf.png" group-title="Nacionales" tvg-name="FactoríadeFicción.TV",Factoría de Ficción
+https://freevip.xyz/live/fdf/index.m3u8
+#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/energy.png" group-title="Nacionales" tvg-name="Energy.TV",Energy
+https://freevip.xyz/live/energy/index.m3u8
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/divinity.png" group-title="Nacionales" tvg-name="Divinity.TV",Divinity
+https://freevip.xyz/live/divinity/index.m3u8
+#EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mega.png" group-title="Nacionales" tvg-name="Mega.TV",Mega
+https://freevip.xyz/live/mega/index.m3u8
+#EXTINF:-1 tvg-id="ParamountChannel.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/paramountchannel.png" group-title="Nacionales" tvg-name="ParamountChannel.TV",Paramount Channel
+https://freevip.xyz/live/paramount_channel/index.m3u8
+#EXTINF:-1 tvg-id="Ten.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/ten.png" group-title="Nacionales" tvg-name="Ten.TV",Ten
+https://freevip.xyz/live/ten/index.m3u8
+#EXTINF:-1 tvg-id="DKISS.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dkiss.png" group-title="Nacionales" tvg-name="DKISS.TV",DKISS
+https://freevip.xyz/live/dkiss/index.m3u8
+#EXTINF:-1 tvg-id="BEMAD.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/bemad.png" group-title="Nacionales" tvg-name="BEMAD.TV",BEMAD
+https://freevip.xyz/live/be_mad/index.m3u8
+#EXTINF:-1 tvg-id="Trece.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/13tv.png" group-title="Nacionales" tvg-name="Trece.TV",Trece
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Viajar.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/viajar.png" group-title="Nacionales" tvg-name="Viajar.TV",Viajar
+https://freevip.xyz/live/viajar/index.m3u8
+#EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/siete.png" group-title="Nacionales" tvg-name="7RM.TV",7RM
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-id="TeleMadrid.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/telemadrid.png" group-title="Nacionales" tvg-name="TeleMadrid.TV",TeleMadrid
+http://www.telemadrid.es/emision-en-directo
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/laotra.png" group-title="Nacionales" tvg-name="LaOtra.TV",La Otra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
+#EXTINF:-1 tvg-id="NavarraTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/navarratv.png" group-title="Nacionales" tvg-name="NavarraTV.TV",Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="CyL7.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/rtvcyl.png" group-title="Nacionales" tvg-name="CyL7.TV",CyL 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 tvg-id="7Valencia.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/sietevalencia.png" group-title="Nacionales" tvg-name="7Valencia.TV",7 Valencia
+https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
+#EXTINF:-1 tvg-id="LevanteTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/levantetv.png" group-title="Nacionales" tvg-name="LevanteTV.TV",LevanteTV
+https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+#EXTINF:-1 tvg-id="8tv.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/ochotv.png" group-title="Nacionales" tvg-name="8tv.TV",8tv
+https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
+#EXTINF:-1 tvg-id="TV3Cat.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/tv3.png" group-title="Nacionales" tvg-name="TV3Cat.TV",TV3 Cat
+https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="Canal33.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/33.png" group-title="Nacionales" tvg-name="Canal33.TV",Canal 33
+https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="AragónTVInt.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/aragon.png" group-title="Nacionales" tvg-name="AragónTVInt.TV",Aragón TV Int
+http://www.aragontelevision.es/directo
+#EXTINF:-1 tvg-id="ETBSat.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/eitb.png" group-title="Nacionales" tvg-name="ETBSat.TV",ETB Sat
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-id="CanalSur.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/canalsur.png" group-title="Nacionales" tvg-name="CanalSur.TV",Canal Sur
+
+#EXTINF:-1 tvg-id="TVGalicia.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/tvg.png" group-title="Nacionales" tvg-name="TVGalicia.TV",TV Galicia
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="A3series.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/a3s.png" group-title="Series" tvg-name="A3series.TV",A3series
+https://freevip.xyz/live/atreseries/index.m3u8
+#EXTINF:-1 tvg-id="MovistarSeries.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mseries.png" group-title="Series" tvg-name="MovistarSeries.TV",Movistar Series
+https://freevip.xyz/live/movistar_series/index.m3u8
+#EXTINF:-1 tvg-id="M.Seriesmanía.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mseriesmania.png" group-title="Series" tvg-name="M.Seriesmanía.TV",M. Seriesmanía
+https://freevip.xyz/live/movistar_seriesmania/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/comedy.png" group-title="Series" tvg-name="ComedyCentral.TV",Comedy Central
+https://freevip.xyz/live/comedy_central/index.m3u8
+#EXTINF:-1 tvg-id="#0.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/m0.png" group-title="Series" tvg-name="#0.TV",#0
+https://freevip.xyz/live/0/index.m3u8
+#EXTINF:-1 tvg-id="Sundance.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/sundance.png" group-title="Series" tvg-name="Sundance.TV",Sundance
+https://freevip.xyz/live/sundance/index.m3u8
+#EXTINF:-1 tvg-id="Fox.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/fox.png" group-title="Series" tvg-name="Fox.TV",Fox
+https://freevip.xyz/live/fox/index.m3u8
+#EXTINF:-1 tvg-id="FoxLife.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/foxlife.png" group-title="Series" tvg-name="FoxLife.TV",Fox Life
+https://freevip.xyz/live/fox_life/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/syfy.png" group-title="Series" tvg-name="SYFY.TV",SYFY
+https://freevip.xyz/live/syfy/index.m3u8
+#EXTINF:-1 tvg-id="AXN.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/axn.png" group-title="Cine" tvg-name="AXN.TV",AXN
+https://freevip.xyz/live/axn/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/axnwhite.png" group-title="Cine" tvg-name="AXNWhite.TV",AXN White
+https://freevip.xyz/live/axn_white/index.m3u8
+#EXTINF:-1 tvg-id="Hollywood.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/holly.png" group-title="Cine" tvg-name="Hollywood.TV",Hollywood
+https://freevip.xyz/live/hollywood/index.m3u8
+#EXTINF:-1 tvg-id="Dark.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dark.png" group-title="Cine" tvg-name="Dark.TV",Dark
+https://freevip.xyz/live/dark/index.m3u8
+#EXTINF:-1 tvg-id="AMC.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/amc.png" group-title="Cine" tvg-name="AMC.TV",AMC
+https://freevip.xyz/live/amc/index.m3u8
+#EXTINF:-1 tvg-id="TCM.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/tcm.png" group-title="Cine" tvg-name="TCM.TV",TCM
+https://freevip.xyz/live/tcm/index.m3u8
+#EXTINF:-1 tvg-id="Calle13.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/calle13.png" group-title="Cine" tvg-name="Calle13.TV",Calle 13
+https://freevip.xyz/live/calle_13/index.m3u8
+#EXTINF:-1 tvg-id="Somos.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/somos.png" group-title="Cine" tvg-name="Somos.TV",Somos
+https://freevip.xyz/live/somos/index.m3u8
+#EXTINF:-1 tvg-id="M.Drama.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/drama.png" group-title="Cine" tvg-name="M.Drama.TV",M. Drama
+https://freevip.xyz/live/movistar_drama/index.m3u8
+#EXTINF:-1 tvg-id="MovistarEstrenos.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mestrenos.png" group-title="Cine" tvg-name="MovistarEstrenos.TV",Movistar Estrenos
+https://freevip.xyz/live/movistar_estrenos/index.m3u8
+#EXTINF:-1 tvg-id="M.CineDoc&Roll.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mdocroll.png" group-title="Cine" tvg-name="M.CineDoc&Roll.TV",M.CineDoc&Roll
+https://freevip.xyz/live/movistar_cinedocroll/index.m3u8
+#EXTINF:-1 tvg-id="MovistarComedia.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mcomedia.png" group-title="Cine" tvg-name="MovistarComedia.TV",Movistar Comedia
+https://freevip.xyz/live/movistar_comedia/index.m3u8
+#EXTINF:-1 tvg-id="MovistarAcción.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/maccion.png" group-title="Cine" tvg-name="MovistarAcción.TV",Movistar Acción
+https://freevip.xyz/live/movistar_accion/index.m3u8
+#EXTINF:-1 tvg-id="MovistarCineN.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mcinen.png" group-title="Cine" tvg-name="MovistarCineN.TV",Movistar Cine N
+https://freevip.xyz/live/movistar_cine_espanol/index.m3u8
+#EXTINF:-1 tvg-id="Xtrm.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/xtrm.png" group-title="Cine" tvg-name="Xtrm.TV",Xtrm
+https://freevip.xyz/live/xtrm/index.m3u8
+#EXTINF:-1 tvg-id="TNT.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/tnt.png" group-title="Cine" tvg-name="TNT.TV",TNT
+https://freevip.xyz/live/tnt/index.m3u8
+#EXTINF:-1 tvg-id="COSMO.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/cosmo.png" group-title="Cine" tvg-name="COSMO.TV",COSMO
+https://freevip.xyz/live/cosmo/index.m3u8
+#EXTINF:-1 tvg-id="BetisTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/betistv.png" group-title="Fútbol" tvg-name="BetisTV.TV",Betis TV
+https://betistv-live.flumotion.com/RmM3t9nhk1ShpnihFtwMmg/1607999980/betistv/live_all/betistv/live_source/chunks.m3u8
+#EXTINF:-1 tvg-id="LaLigaTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/liga123.png" group-title="Fútbol" tvg-name="LaLigaTV.TV",La Liga TV
+https://freevip.xyz/sport/laliga_tv/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga.png" group-title="Fútbol" tvg-name="M.LaLiga.TV",M. LaLiga
+https://freevip.xyz/sport/movistar_laliga/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga1.png" group-title="Fútbol" tvg-name="M.LaLiga1.TV",M. LaLiga 1
+https://freevip.xyz/sport/movistar_laliga_1/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga2.png" group-title="Fútbol" tvg-name="M.LaLiga2.TV",M.LaLiga 2
+https://freevip.xyz/sport/movistar_laliga_2/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga3.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga3.png" group-title="Fútbol" tvg-name="M.LaLiga3.TV",M.LaLiga 3
+https://freevip.xyz/sport/movistar_laliga_3/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga4.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga4.png" group-title="Fútbol" tvg-name="M.LaLiga4.TV",M.LaLiga 4
+https://freevip.xyz/sport/movistar_laliga_4/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga5.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga5.png" group-title="Fútbol" tvg-name="M.LaLiga5.TV",M.LaLiga 5
+https://freevip.xyz/sport/movistar_laliga_5/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga6.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga6.png" group-title="Fútbol" tvg-name="M.LaLiga6.TV",M.LaLiga 6
+https://freevip.xyz/sport/movistar_laliga_6/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga7.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga7.png" group-title="Fútbol" tvg-name="M.LaLiga7.TV",M.LaLiga 7
+https://freevip.xyz/sport/movistar_laliga_7/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga8.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga8.png" group-title="Fútbol" tvg-name="M.LaLiga8.TV",M.LaLiga 8
+https://freevip.xyz/sport/movistar_laliga_8/index.m3u8
+#EXTINF:-1 tvg-id="M.LaLiga9.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mliga9.png" group-title="Fútbol" tvg-name="M.LaLiga9.TV",M.LaLiga 9
+https://freevip.xyz/sport/movistar_laliga_9/index.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/realmadridtv.png" group-title="Fútbol" tvg-name="RealMadridTV.TV",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-id="M.LigadeCampeones.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones.png" group-title="Fútbol" tvg-name="M.LigadeCampeones.TV",M. Liga de Campeones
+https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8
+#EXTINF:-1 tvg-id="M.LigadeCampeones1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones1.png" group-title="Fútbol" tvg-name="M.LigadeCampeones1.TV",M. Liga de Campeones 1
+https://freevip.xyz/sport/movistar_liga_de_campeones_1/index.m3u8
+#EXTINF:-1 tvg-id="M.LigadeCampeones2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones2.png" group-title="Fútbol" tvg-name="M.LigadeCampeones2.TV",M. Liga de Campeones 2
+https://freevip.xyz/sport/movistar_liga_de_campeones_2/index.m3u8
+#EXTINF:-1 tvg-id="M.LigadeCampeones3.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones3.png" group-title="Fútbol" tvg-name="M.LigadeCampeones3.TV",M. Liga de Campeones 3
+https://freevip.xyz/sport/movistar_liga_de_campeones_3/index.m3u8
+#EXTINF:-1 tvg-id="M.LigadeCampeones4.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones4.png" group-title="Fútbol" tvg-name="M.LigadeCampeones4.TV",M. Liga de Campeones 4
+https://freevip.xyz/sport/movistar_liga_de_campeones_4/index.m3u8
+#EXTINF:-1 tvg-id="M.LigadeCampeones5.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones5.png" group-title="Fútbol" tvg-name="M.LigadeCampeones5.TV",M. Liga de Campeones 5
+https://freevip.xyz/sport/movistar_liga_de_campeones_5/index.m3u8
+#EXTINF:-1 tvg-id="M.LigadeCampeones6.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones6.png" group-title="Fútbol" tvg-name="M.LigadeCampeones6.TV",M. Liga de Campeones 6
+https://freevip.xyz/sport/movistar_liga_de_campeones_6/index.m3u8
+#EXTINF:-1 tvg-id="M.LigadeCampeones7.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones7.png" group-title="Fútbol" tvg-name="M.LigadeCampeones7.TV",M. Liga de Campeones 7
+https://freevip.xyz/sport/movistar_liga_de_campeones_7/index.m3u8
+#EXTINF:-1 tvg-id="Esport3.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/esport3.png" group-title="Deportes" tvg-name="Esport3.TV",Esport 3
+https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-id="MovistarGolf.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mgolf.png" group-title="Deportes" tvg-name="MovistarGolf.TV",Movistar Golf
+https://freevip.xyz/live/movistar_golf/index.m3u8
+#EXTINF:-1 tvg-id="Cazavision.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/cazavision.png" group-title="Deportes" tvg-name="Cazavision.TV",Cazavision
+https://freevip.xyz/live/cazavision/index.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/tdp.png" group-title="Deportes" tvg-name="Teledeporte.TV",Teledeporte
+https://freevip.xyz/live/teledeporte/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/eurosport1.png" group-title="Deportes" tvg-name="Eurosport1.TV",Eurosport 1
+https://freevip.xyz/sport/eurosport/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/eurosport2.png" group-title="Deportes" tvg-name="Eurosport2.TV",Eurosport 2
+https://freevip.xyz/sport/eurosport_2/index.m3u8
+#EXTINF:-1 tvg-id="CazayPesca.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/caza.png" group-title="Deportes" tvg-name="CazayPesca.TV",Caza y Pesca
+https://freevip.xyz/live/caza_y_pesca/index.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/iberalia.png" group-title="Deportes" tvg-name="IberaliaTV.TV",Iberalia TV
+https://freevip.xyz/live/iberalia/index.m3u8
+#EXTINF:-1 tvg-id="Toros.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/toros.png" group-title="Deportes" tvg-name="Toros.TV",Toros
+https://freevip.xyz/live/toros_tv/index.m3u8
+#EXTINF:-1 tvg-id="GOL.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/goltv.png" group-title="Deportes" tvg-name="GOL.TV",GOL
+https://freevip.xyz/live/gol_tv/index.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mdeportes1.png" group-title="Deportes" tvg-name="MovistarDeportes1.TV",Movistar Deportes 1
+https://freevip.xyz/sport/movistar_deportes/index.m3u8
+#EXTINF:-1 tvg-id="Vamos.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/vamos.png" group-title="Deportes" tvg-name="Vamos.TV",#Vamos
+https://freevip.xyz/sport/vamos/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryMax.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dmax.png" group-title="Documentales" tvg-name="DiscoveryMax.TV",Discovery Max
+https://freevip.xyz/live/dmax/index.m3u8
+#EXTINF:-1 tvg-id="Crimen+Investigación.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/ci.png" group-title="Documentales" tvg-name="Crimen+Investigación.TV",Crimen + Investigación
+https://freevip.xyz/live/crimen_investigacion/index.m3u8
+#EXTINF:-1 tvg-id="Blaze.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/blaze.png" group-title="Documentales" tvg-name="Blaze.TV",Blaze
+https://freevip.xyz/live/blaze/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dchanel.png" group-title="Documentales" tvg-name="Discovery.TV",Discovery
+https://freevip.xyz/live/discovery_channel/index.m3u8
+#EXTINF:-1 tvg-id="Historia.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/historia.png" group-title="Documentales" tvg-name="Historia.TV",Historia
+https://freevip.xyz/live/historia/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/natgeo.png" group-title="Documentales" tvg-name="NationalGeographic.TV",National Geographic
+https://freevip.xyz/live/national_geographic_channel/index.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/natwild.png" group-title="Documentales" tvg-name="NatGeoWild.TV",Nat Geo Wild
+https://freevip.xyz/live/national_geographic_wild/index.m3u8
+#EXTINF:-1 tvg-id="Odisea.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/odisea.png" group-title="Documentales" tvg-name="Odisea.TV",Odisea
+https://freevip.xyz/live/odisea/index.m3u8
+#EXTINF:-1 tvg-id="MTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png" group-title="Documentales" tvg-name="MTV.TV",MTV
+https://freevip.xyz/live/mtv/index.m3u8
+#EXTINF:-1 tvg-id="CMTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png" group-title="Documentales" tvg-name="CMTV.TV",Club MTV
+https://freevip.xyz/sport/club_mtv/index.m3u8
+#EXTINF:-1 tvg-id="MTVH.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png" group-title="Documentales" tvg-name="MTVH.TV",MTV Hits
+https://freevip.xyz/sport/mtv_hits/index.m3u8
+#EXTINF:-1 tvg-id="MTVB.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png" group-title="Documentales" tvg-name="MTVB.TV",MTV Base
+https://freevip.xyz/sport/mtv_base/index.m3u8
+#EXTINF:-1 tvg-id="CanalCocina.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/cocina.png" group-title="Documentales" tvg-name="CanalCocina.TV",Canal Cocina
+https://freevip.xyz/live/canal_cocina/index.m3u8
+#EXTINF:-1 tvg-id="CanalDecasa.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/decasa.png" group-title="Documentales" tvg-name="CanalDecasa.TV",Canal Decasa
+https://freevip.xyz/live/decasa/index.m3u8
+#EXTINF:-1 tvg-id="Dreamworks.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dreamworks.png" group-title="Infantiles" tvg-name="Dreamworks.TV",Dreamworks
+https://freevip.xyz/live/dreamwork/index.m3u8
+#EXTINF:-1 tvg-id="Disney+.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/disney.png" group-title="Infantiles" tvg-name="Disney+.TV",Disney +
+https://freevip.xyz/live/disney_/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/babytv.png" group-title="Infantiles" tvg-name="BabyTV.TV",Baby TV
+https://freevip.xyz/live/baby_tv/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/disneychannel.png" group-title="Infantiles" tvg-name="DisneyChannel.TV",Disney Channel
+https://freevip.xyz/live/disney_channel/index.m3u8
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/boing.png" group-title="Infantiles" tvg-name="Boing.TV",Boing
+https://freevip.xyz/live/boing/index.m3u8
+#EXTINF:-1 tvg-id="ClanTVE.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/clan.png" group-title="Infantiles" tvg-name="ClanTVE.TV",Clan TVE
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/disneyjunior.png" group-title="Infantiles" tvg-name="DisneyJunior.TV",Disney Junior
+https://freevip.xyz/live/disney_junior/index.m3u8
+#EXTINF:-1 tvg-id="CanalPanda.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/panda.png" group-title="Infantiles" tvg-name="CanalPanda.TV",Canal Panda
+https://freevip.xyz/live/canal_panda/index.m3u8
+#EXTINF:-1 tvg-id="NICKJR.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/nick.png" group-title="Infantiles" tvg-name="NICKJR.TV",NICK JR
+https://freevip.xyz/live/nick_jr/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/nick.png" group-title="Infantiles" tvg-name="Nickelodeon.TV",Nickelodeon
+https://freevip.xyz/live/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="MDAZNF1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/formula1.png" group-title="Eventos Dazn" tvg-name="MDAZNF1.TV",DAZN F1
+https://freevip.xyz/sport/dazn_f1/index.m3u8
+#EXTINF:-1 tvg-id="DAZN1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn1.png" group-title="Eventos Dazn" tvg-name="DAZN1.TV",DAZN 1
+https://freevip.xyz/sport/movistar_dazn_1/index.m3u8
+#EXTINF:-1 tvg-id="DAZN2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn2.png" group-title="Eventos Dazn" tvg-name="DAZN2.TV",DAZN 2
+https://freevip.xyz/sport/movistar_dazn_2/index.m3u8
+#EXTINF:-1 tvg-id="DAZN3.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn3.png" group-title="Eventos Dazn" tvg-name="DAZN3.TV",DAZN 3
+https://freevip.xyz/sport/movistar_dazn_3/index.m3u8
+#EXTINF:-1 tvg-id="DAZN4.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn4.png" group-title="Eventos Dazn" tvg-name="DAZN4.TV",DAZN 4
+https://freevip.xyz/sport/movistar_dazn_4/index.m3u8
+#EXTINF:-1 tvg-id="DAZN5.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn5.png" group-title="Eventos Dazn" tvg-name="DAZN5.TV",DAZN 5
+https://freevip.xyz/sport/movistar_dazn_5/index.m3u8
+#EXTINF:-1 tvg-id="DAZN6.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn6.png" group-title="Eventos Dazn" tvg-name="DAZN6.TV",DAZN 6
+https://freevip.xyz/sport/movistar_dazn_6/index.m3u8
+#EXTINF:-1 tvg-id="DAZN7.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn7.png" group-title="Eventos Dazn" tvg-name="DAZN7.TV",DAZN 7
+https://freevip.xyz/sport/movistar_dazn_7/index.m3u8
+#EXTINF:-1 tvg-id="DAZN8.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn8.png" group-title="Eventos Dazn" tvg-name="DAZN8.TV",DAZN 8
+https://freevip.xyz/sport/movistar_dazn_8/index.m3u8
+#EXTINF:-1 tvg-id="DAZN9.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn9.png" group-title="Eventos Dazn" tvg-name="DAZN9.TV",DAZN 9
+https://freevip.xyz/sport/movistar_dazn_9/index.m3u8
+#EXTINF:-1 tvg-id="DAZN10.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn10.png" group-title="Eventos Dazn" tvg-name="DAZN10.TV",DAZN 10
+https://freevip.xyz/sport/movistar_dazn_10/index.m3u8
+#EXTINF:-1 tvg-id="DAZN11.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn11.png" group-title="Eventos Dazn" tvg-name="DAZN11.TV",DAZN 11
+https://freevip.xyz/sport/movistar_dazn_11/index.m3u8
+#EXTINF:-1 tvg-id="DAZN12.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dazn12.png" group-title="Eventos Dazn" tvg-name="DAZN12.TV",DAZN 12
+https://freevip.xyz/sport/movistar_dazn_12/index.m3u8
+#EXTINF:-1 tvg-id="AMCLat.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/amc.png" group-title="Latinos" tvg-name="AMCLat.TV",AMC Latino
+https://freevip.xyz/sport/amc_latino/index.m3u8
+#EXTINF:-1 tvg-id="AXNLat.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/axn.png" group-title="Latinos" tvg-name="AXNLat.TV",AXN Latino
+https://freevip.xyz/sport/axn_latino/index.m3u8
+#EXTINF:-1 tvg-id="Canal13.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/canal13.png" group-title="Latinos" tvg-name="Canal13.TV",Canal 13
+https://freevip.xyz/sport/canal_13/index.m3u8
+#EXTINF:-1 tvg-id="FDC.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/cdf.png" group-title="Latinos" tvg-name="FDC.TV",CDF
+https://freevip.xyz/sport/cdf_fhd/index.m3u8
+#EXTINF:-1 tvg-id="Chilevision.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/chilevision.png" group-title="Latinos" tvg-name="Chilevision.TV",Chilevision
+https://freevip.xyz/sport/chilevision_hd/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCLat.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/comedy.png" group-title="Latinos" tvg-name="ComedyCLat.TV",Comedy Central Latino
+https://freevip.xyz/sport/comedy_central_latino/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/tnt.png" group-title="Latinos" tvg-name="TNTSeries.TV",TNT Series
+https://freevip.xyz/sport/tnt_series/index.m3u8
+#EXTINF:-1 tvg-id="TNTlatino.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/tnt.png" group-title="Latinos" tvg-name="TNTlatino.TV",TNT Latino
+https://freevip.xyz/sport/tnt_latino/index.m3u8
+#EXTINF:-1 tvg-id="Sony.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/sonychannel.png" group-title="Latinos" tvg-name="Sony.TV",Sony Latino
+https://freevip.xyz/sport/sony_latino/index.m3u8
+#EXTINF:-1 tvg-id="Win.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/winsport.png" group-title="Latinos" tvg-name="Win.TV",Win Sport
+https://freevip.xyz/sport/win_sport/index.m3u8
+#EXTINF:-1 tvg-id="Warner.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/warnertv.png" group-title="Latinos" tvg-name="Warner.TV",Warner
+https://freevip.xyz/sport/warner/index.m3u8
+#EXTINF:-1 tvg-id="Univision.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/univision.png" group-title="Latinos" tvg-name="Univision.TV",Univision
+https://freevip.xyz/sport/univision/index.m3u8
+#EXTINF:-1 tvg-id="TYC.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/tycsport.png" group-title="Latinos" tvg-name="TYC.TV",TYC Sports
+https://freevip.xyz/sport/tyc_sports/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/telemundo.png" group-title="Latinos" tvg-name="Telemundo.TV",Telemundo
+https://freevip.xyz/sport/telemundo/index.m3u8
+#EXTINF:-1 tvg-id="Syfylatino.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/syfy.png" group-title="Latinos" tvg-name="Syfylatino.TV",Syfy Latino
+https://freevip.xyz/sport/Syfy_latino/index.m3u8
+#EXTINF:-1 tvg-id="Studiouniver.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/studiouniversal.png" group-title="Latinos" tvg-name="Studiouniver.TV",Studio Universal
+https://freevip.xyz/sport/studio_universal/index.m3u8
+#EXTINF:-1 tvg-id="Starseries.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/starseries.png" group-title="Latinos" tvg-name="Starseries.TV",Star Series
+https://freevip.xyz/sport/star_series/index.m3u8
+#EXTINF:-1 tvg-id="Starlife.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/starlife.png" group-title="Latinos" tvg-name="Starlife.TV",Star Life
+https://freevip.xyz/sport/star_life/index.m3u8
+#EXTINF:-1 tvg-id="Starfun.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/starfun.png" group-title="Latinos" tvg-name="Starfun.TV",Star Fun
+https://freevip.xyz/sport/star_fun/index.m3u8
+#EXTINF:-1 tvg-id="Starcomedy.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/starcomedy.png" group-title="Latinos" tvg-name="Starcomedy.TV",Star Comedy
+https://freevip.xyz/sport/star_comedy/index.m3u8
+#EXTINF:-1 tvg-id="Starclassics.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/starclassics.png" group-title="Latinos" tvg-name="Starclassics.TV",Star Classics
+https://freevip.xyz/sport/star_classics/index.m3u8
+#EXTINF:-1 tvg-id="Starcinema.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/starcinema.png" group-title="Latinos" tvg-name="Starcinema.TV",Star Cinema
+https://freevip.xyz/sport/star_cinema/index.m3u8
+#EXTINF:-1 tvg-id="Starchannel.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/starchannel.png" group-title="Latinos" tvg-name="Starchannel.TV",Star Channel
+https://freevip.xyz/sport/star_channel/index.m3u8
+#EXTINF:-1 tvg-id="Staraction.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/staraction.png" group-title="Latinos" tvg-name="Staraction.TV",Star Action
+https://freevip.xyz/sport/star_action/index.m3u8
+#EXTINF:-1 tvg-id="Space.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/space.png" group-title="Latinos" tvg-name="Space.TV",Space Latino
+https://freevip.xyz/sport/space_latino/index.m3u8
+#EXTINF:-1 tvg-id="History.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/historia.png" group-title="Latinos" tvg-name="History.TV",History
+https://freevip.xyz/sport/history/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png" group-title="Latinos" tvg-name="HBOXtreme.TV",HBO Xtreme
+https://freevip.xyz/sport/hbo_xtreme/index.m3u8
+#EXTINF:-1 tvg-id="HBOPop.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png" group-title="Latinos" tvg-name="HBOPop.TV",HBO Pop
+https://freevip.xyz/sport/hbo_pop/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png" group-title="Latinos" tvg-name="HBOPlus.TV",HBO Plus
+https://freevip.xyz/sport/hbo_plus/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png" group-title="Latinos" tvg-name="HBOFamily.TV",HBO Family
+https://freevip.xyz/sport/hbo_family/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png" group-title="Latinos" tvg-name="HBO2.TV",HBO 2
+https://freevip.xyz/sport/hbo_2/index.m3u8
+#EXTINF:-1 tvg-id="FOXSport1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/foxsport.png" group-title="Latinos" tvg-name="FOXSport1.TV",FOX Sports 1
+https://freevip.xyz/sport/fox_sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FOXSport2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/foxsport.png" group-title="Latinos" tvg-name="FOXSport2.TV",FOX Sports 2
+https://freevip.xyz/sport/fox_sports_2/index.m3u8
+#EXTINF:-1 tvg-id="FOXSport3.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/foxsport.png" group-title="Latinos" tvg-name="FOXSport3.TV",FOX Sports 3
+https://freevip.xyz/sport/fox_sports_3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/espn.png" group-title="Latinos" tvg-name="ESPN1.TV",ESPN 1
+https://freevip.xyz/sport/espn_1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/espn.png" group-title="Latinos" tvg-name="ESPN2.TV",ESPN 2
+https://freevip.xyz/sport/espn_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/espn.png" group-title="Latinos" tvg-name="ESPN3.TV",ESPN 3
+https://freevip.xyz/sport/espn_3/index.m3u8
+#EXTINF:-1 tvg-id="DisWorld.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/discoveryworld.png" group-title="Latinos" tvg-name="DisWorld.TV",Discovery World
+https://freevip.xyz/sport/discovery_world/index.m3u8
+#EXTINF:-1 tvg-id="DisTurbo.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/discoveryturbo.png" group-title="Latinos" tvg-name="DisTurbo.TV",Discovery Turbo
+https://freevip.xyz/sport/discovery_turbo/index.m3u8
+#EXTINF:-1 tvg-id="Distlc.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/discoverytlc.png" group-title="Latinos" tvg-name="Distlc.TV",Discovery TLC
+https://freevip.xyz/sport/discovery_tlc/index.m3u8
+#EXTINF:-1 tvg-id="Distheater.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/discoverytt.png" group-title="Latinos" tvg-name="Distheater.TV",Discovery Theater
+https://freevip.xyz/sport/discovery_theater/index.m3u8
+#EXTINF:-1 tvg-id="DisKids.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/discoverykids.png" group-title="Latinos" tvg-name="DisKids.TV",Discovery Kids
+https://freevip.xyz/sport/discovery_kids/index.m3u8
+#EXTINF:-1 tvg-id="DisID.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/discoveryid.png" group-title="Latinos" tvg-name="DisID.TV",Discovery ID
+https://freevip.xyz/sport/discovery_id/index.m3u8
+#EXTINF:-1 tvg-id="DisHH.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/discoveryhh.png" group-title="Latinos" tvg-name="DisHH.TV",Discovery HH
+https://freevip.xyz/sport/discovery_hh/index.m3u8
+#EXTINF:-1 tvg-id="DisCHLAT.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dchanel.png" group-title="Latinos" tvg-name="DisCHLAT.TV",Discovery Channel Latino
+https://freevip.xyz/sport/discovery_channel_latino/index.m3u8
+#EXTINF:-1 tvg-id="DirectvSports.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/directsport.png" group-title="Latinos" tvg-name="DirectvSports.TV",Directv Sports
+https://freevip.xyz/sport/directv_sports/index.m3u8
+#EXTINF:-1 tvg-id="DirectvSports2.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/directsport.png" group-title="Latinos" tvg-name="DirectvSports2.TV",Directv Sports 2
+https://freevip.xyz/sport/directv_sports_2/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/cinemax.png" group-title="Latinos" tvg-name="Cinemax.TV",Cinemax
+https://freevip.xyz/sport/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/cinecanal.png" group-title="Latinos" tvg-name="Cinecanal.TV",Cinecanal
+https://freevip.xyz/sport/cinecanal/index.m3u8
+#EXTINF:-1 tvg-id="Lared.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/lared.png" group-title="Latinos" tvg-name="Lared.TV",La Red
+https://freevip.xyz/sport/la_red_hd/index.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/playboy.png" group-title="Adultos" tvg-name="PlayboyTV.TV",Playboy TV
+https://freevip.xyz/live/playboy/index.m3u8
+#EXTINF:-1 tvg-id="Hot.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/hot.png" group-title="Adultos" tvg-name="Hot.TV",Hot
+https://freevip.xyz/live/hot/index.m3u8
+#EXTINF:-1 tvg-id="Dorcel.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/dorcel.png" group-title="Adultos" tvg-name="Dorcel.TV",Dorcel
+https://freevip.xyz/live/dorcell/index.m3u8
+#EXTINF:-1 tvg-id="BlueHustler.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/hustler.png" group-title="Adultos" tvg-name="BlueHustler.TV",Blue Hustler
+https://freevip.xyz/live/blue_hustler/index.m3u8
+#EXTINF:-1 tvg-id="Redlight.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/redlight.png" group-title="Adultos" tvg-name="Redlight.TV",Redlight
+https://freevip.xyz/live/redlight/index.m3u8
+#EXTINF:-1 tvg-id="Penthouse.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/pent.png" group-title="Adultos" tvg-name="Penthouse.TV",Penthouse
+https://freevip.xyz/live/penthouse/index.m3u8
+#EXTINF:-1 tvg-id="Penthouse1.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/pent.png" group-title="Adultos" tvg-name="Penthouse1.TV",Penthouse 1
+https://freevip.xyz/live/dusk/index.m3u8
+#EXTINF:-1 tvg-id="Hustler.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/hustler.png" group-title="Adultos" tvg-name="Hustler.TV",Hustler
+https://freevip.xyz/live/hustler/index.m3u8
+#EXTINF:-1 tvg-id="Brazzers.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/brazzers.png" group-title="Adultos" tvg-name="Brazzers.TV",Brazzers
+https://freevip.xyz/live/brazzers/index.m3u8
+#EXTINF:-1 tvg-id="RedXXX.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="RedXXX.TV",Red XXX
+https://freevip.xyz/live/alba_xxx/index.m3u8
+#EXTINF:-1 tvg-id="Venus.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/venus.png" group-title="Adultos" tvg-name="Venus.TV",Venus
+https://freevip.xyz/live/venus/index.m3u8
+#EXTINF:-1 tvg-id="Private.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="Private.TV",Private
+https://freevip.xyz/live/private/index.m3u8
+#EXTINF:-1 tvg-id="VipBigAss.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipBigAss.TV",Vip Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="VipBigDick.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipBigDick.TV",Vip Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="VipBigTits.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipBigTits.TV",Vip Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="VipBlowjob.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipBlowjob.TV",Vip Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="VipCuckold.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipCuckold.TV",Vip Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="VipFetish.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipFetish.TV",Vip Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="VipHardcore.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipHardcore.TV",Vip Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="VipInterracial.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipInterracial.TV",Vip Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="VipLatina.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipLatina.TV",Vip Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="VipMilf.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipMilf.TV",Vip Milf
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="VipPornstar.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipPornstar.TV",Vip Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="VipPov.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipPov.TV",Vip Pov
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="VipRussian.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipRussian.TV",Vip Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="VipTeen.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipTeen.TV",Vip Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="VipThreesome.TV" tvg-logo="https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png" group-title="Adultos" tvg-name="VipThreesome.TV",Vip Threesome
+http://cdn.adultiptv.net/threesome.m3u8
